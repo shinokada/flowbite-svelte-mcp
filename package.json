@@ -1,0 +1,21 @@
+{
+  "name": "flowbite-svelte-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for Flowbite-Svelte documentation (LLM)",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/server.js"
+  },
+  "dependencies": {
+    "@tmcp/adapter-zod": "^0.1.7",
+    "@tmcp/transport-stdio": "^0.4.1",
+    "node-fetch": "^3.0.0",
+    "tmcp": "^1.18.1",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "typescript": "^5.0.0"
+  }
+}
