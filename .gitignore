@@ -1,0 +1,7 @@
+node_modules
+.claude
+.DS_Store
+mcp-docs
+.env
+.env.*
+!.env.example

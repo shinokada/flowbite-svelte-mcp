@@ -29,10 +29,6 @@ export const getComponentListTool = {
         const [, fullUrl] = line.split(': ');
         if (!fullUrl) return null;
 
-        // Extract name and category from URL
-        // e.g. https://.../llm/forms/checkbox.md
-        // name = "checkbox"
-        // category = "forms"
         const parts = fullUrl.trim().split('/');
         const filename = parts.pop() || ''; // checkbox.md
         const category = parts.pop() || 'misc'; // forms
