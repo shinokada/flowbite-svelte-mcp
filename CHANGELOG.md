@@ -1,5 +1,11 @@
 # flowbite-svelte-mcp
 
+## 0.2.2
+
+### Patch Changes
+
+- data: update
+
 ## 0.2.1
 
 ### Patch Changes
