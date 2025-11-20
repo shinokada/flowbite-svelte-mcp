@@ -1,6 +1,6 @@
 {
   "name": "flowbite-svelte-mcp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "MCP server for Flowbite-Svelte documentation (LLM)",
   "type": "module",
   "scripts": {
@@ -10,6 +10,7 @@
     "lint:fix": "eslint . --fix",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
+    "gen:registry": "tsx scripts/generateComponentRegistry.ts",
     "ch": "npx changeset",
     "cv": "npx changeset version",
     "cp": "npx changeset publish"
@@ -31,6 +32,12 @@
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-jsdoc": "^61.0.0",
     "prettier": "^3.6.2",
+    "tsx": "^4.20.6",
     "typescript": "^5.9.3"
-  }
+  },
+  "keywords": [
+    "mcp",
+    "mcp server",
+    "flowbite-svelte"
+  ]
 }
