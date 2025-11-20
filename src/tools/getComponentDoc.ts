@@ -2,7 +2,7 @@ import { z } from 'zod';
 import fetch from 'node-fetch';
 
 const Schema = z.object({
-  component: z.string().describe("The documentation path (use findComponent first to get this)")
+  component: z.string().describe('The documentation path (use findComponent first to get this)'),
 });
 
 type ComponentDocArgs = z.infer<typeof Schema>;

@@ -13,7 +13,7 @@
     "gen:registry": "tsx scripts/generateComponentRegistry.ts",
     "ch": "npx changeset",
     "cv": "npx changeset version",
-    "cp": "npx changeset publish"
+    "cp": "pnpm gen:registry && npx changeset publish"
   },
   "dependencies": {
     "@tmcp/adapter-zod": "^0.1.7",
