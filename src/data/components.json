@@ -1,51 +1,77 @@
 {
   "accordion": {
-    "components": ["Accordion", "AccordionItem"],
+    "components": [
+      "Accordion",
+      "AccordionItem"
+    ],
     "category": "components",
     "docUrl": "accordion"
   },
   "alert": {
-    "components": ["Alert"],
+    "components": [
+      "Alert"
+    ],
     "category": "components",
     "docUrl": "alert"
   },
   "avatar": {
-    "components": ["Avatar"],
+    "components": [
+      "Avatar"
+    ],
     "category": "components",
     "docUrl": "avatar"
   },
   "badge": {
-    "components": ["Badge"],
+    "components": [
+      "Badge"
+    ],
     "category": "components",
     "docUrl": "badge"
   },
   "banner": {
-    "components": ["Banner"],
+    "components": [
+      "Banner"
+    ],
     "category": "components",
     "docUrl": "banner"
   },
   "bottom-navigation": {
-    "components": ["BottomNav", "BottomNavItem", "BottomNavHeaderItem", "BottomNavHeader"],
+    "components": [
+      "BottomNav",
+      "BottomNavItem",
+      "BottomNavHeaderItem",
+      "BottomNavHeader"
+    ],
     "category": "components",
     "docUrl": "bottom-navigation"
   },
   "breadcrumb": {
-    "components": ["Breadcrumb", "BreadcrumbItem"],
+    "components": [
+      "Breadcrumb",
+      "BreadcrumbItem"
+    ],
     "category": "components",
     "docUrl": "breadcrumb"
   },
   "button-group": {
-    "components": ["ButtonGroup"],
+    "components": [
+      "ButtonGroup"
+    ],
     "category": "components",
     "docUrl": "button-group"
   },
   "buttons": {
-    "components": ["Button", "GradientButton"],
+    "components": [
+      "Button",
+      "GradientButton"
+    ],
     "category": "components",
     "docUrl": "buttons"
   },
   "card": {
-    "components": ["Card"],
+    "components": [
+      "Card"
+    ],
     "category": "components",
     "docUrl": "card"
   },
@@ -63,27 +89,37 @@
     "docUrl": "carousel"
   },
   "clipboard": {
-    "components": ["Clipboard"],
+    "components": [
+      "Clipboard"
+    ],
     "category": "components",
     "docUrl": "clipboard"
   },
   "clipboard-manager": {
-    "components": ["ClipboardManager"],
+    "components": [
+      "ClipboardManager"
+    ],
     "category": "components",
     "docUrl": "clipboard-manager"
   },
   "command-palette": {
-    "components": ["CommandPalette"],
+    "components": [
+      "CommandPalette"
+    ],
     "category": "components",
     "docUrl": "command-palette"
   },
   "darkmode": {
-    "components": ["DarkMode"],
+    "components": [
+      "DarkMode"
+    ],
     "category": "components",
     "docUrl": "darkmode"
   },
   "datepicker": {
-    "components": ["Datepicker"],
+    "components": [
+      "Datepicker"
+    ],
     "category": "components",
     "docUrl": "datepicker"
   },
@@ -102,12 +138,18 @@
     "docUrl": "device-mockups"
   },
   "dialog": {
-    "components": ["Dialog"],
+    "components": [
+      "Dialog"
+    ],
     "category": "components",
     "docUrl": "dialog"
   },
   "drawer": {
-    "components": ["Drawer", "Drawerhead", "DrawerHandle"],
+    "components": [
+      "Drawer",
+      "Drawerhead",
+      "DrawerHandle"
+    ],
     "category": "components",
     "docUrl": "drawer"
   },
@@ -135,147 +177,221 @@
     "docUrl": "footer"
   },
   "forms/button-toggle": {
-    "components": ["ButtonToggleGroup", "ButtonToggle", "CheckIcon"],
+    "components": [
+      "ButtonToggleGroup",
+      "ButtonToggle",
+      "CheckIcon"
+    ],
     "category": "forms",
     "docUrl": "forms/button-toggle"
   },
   "forms/checkbox": {
-    "components": ["Checkbox", "CheckboxButton"],
+    "components": [
+      "Checkbox",
+      "CheckboxButton"
+    ],
     "category": "forms",
     "docUrl": "forms/checkbox"
   },
   "forms/dropzone": {
-    "components": ["Dropzone"],
+    "components": [
+      "Dropzone"
+    ],
     "category": "forms",
     "docUrl": "forms/dropzone"
   },
   "forms/fileupload": {
-    "components": ["Fileupload"],
+    "components": [
+      "Fileupload"
+    ],
     "category": "forms",
     "docUrl": "forms/fileupload"
   },
   "forms/floating-label": {
-    "components": ["FloatingLabelInput"],
+    "components": [
+      "FloatingLabelInput"
+    ],
     "category": "forms",
     "docUrl": "forms/floating-label"
   },
   "forms/helper": {
-    "components": ["Helper"],
+    "components": [
+      "Helper"
+    ],
     "category": "forms",
     "docUrl": "forms/helper"
   },
   "forms/input-addon": {
-    "components": ["InputAddon"],
+    "components": [
+      "InputAddon"
+    ],
     "category": "forms",
     "docUrl": "forms/input-addon"
   },
   "forms/input-field": {
-    "components": ["Input"],
+    "components": [
+      "Input"
+    ],
     "category": "forms",
     "docUrl": "forms/input-field"
   },
   "forms/label": {
-    "components": ["Label"],
+    "components": [
+      "Label"
+    ],
     "category": "forms",
     "docUrl": "forms/label"
   },
   "forms/phoneinput": {
-    "components": ["PhoneInput"],
+    "components": [
+      "PhoneInput"
+    ],
     "category": "forms",
     "docUrl": "forms/phoneinput"
   },
   "forms/radio": {
-    "components": ["Radio", "RadioButton"],
+    "components": [
+      "Radio",
+      "RadioButton"
+    ],
     "category": "forms",
     "docUrl": "forms/radio"
   },
   "forms/range": {
-    "components": ["Range"],
+    "components": [
+      "Range"
+    ],
     "category": "forms",
     "docUrl": "forms/range"
   },
   "forms/search": {
-    "components": ["Search"],
+    "components": [
+      "Search"
+    ],
     "category": "forms",
     "docUrl": "forms/search"
   },
   "forms/select": {
-    "components": ["Select", "MultiSelect"],
+    "components": [
+      "Select",
+      "MultiSelect"
+    ],
     "category": "forms",
     "docUrl": "forms/select"
   },
   "forms/tags": {
-    "components": ["Tags"],
+    "components": [
+      "Tags"
+    ],
     "category": "forms",
     "docUrl": "forms/tags"
   },
   "forms/textarea": {
-    "components": ["Textarea"],
+    "components": [
+      "Textarea"
+    ],
     "category": "forms",
     "docUrl": "forms/textarea"
   },
   "forms/timepicker": {
-    "components": ["Timepicker"],
+    "components": [
+      "Timepicker"
+    ],
     "category": "forms",
     "docUrl": "forms/timepicker"
   },
   "forms/toggle": {
-    "components": ["Toggle"],
+    "components": [
+      "Toggle"
+    ],
     "category": "forms",
     "docUrl": "forms/toggle"
   },
   "gallery": {
-    "components": ["Gallery"],
+    "components": [
+      "Gallery"
+    ],
     "category": "components",
     "docUrl": "gallery"
   },
   "indicator": {
-    "components": ["Indicator"],
+    "components": [
+      "Indicator"
+    ],
     "category": "components",
     "docUrl": "indicator"
   },
   "kanban": {
-    "components": ["KanbanBoard", "KanbanCard"],
+    "components": [
+      "KanbanBoard",
+      "KanbanCard"
+    ],
     "category": "components",
     "docUrl": "kanban"
   },
   "kbd": {
-    "components": ["Kbd"],
+    "components": [
+      "Kbd"
+    ],
     "category": "components",
     "docUrl": "kbd"
   },
   "list-group": {
-    "components": ["Listgroup", "ListgroupItem"],
+    "components": [
+      "Listgroup",
+      "ListgroupItem"
+    ],
     "category": "components",
     "docUrl": "list-group"
   },
   "mega-menu": {
-    "components": ["MegaMenu"],
+    "components": [
+      "MegaMenu"
+    ],
     "category": "components",
     "docUrl": "mega-menu"
   },
   "modal": {
-    "components": ["Modal"],
+    "components": [
+      "Modal"
+    ],
     "category": "components",
     "docUrl": "modal"
   },
   "navbar": {
-    "components": ["Navbar", "NavBrand", "NavLi", "NavUl", "NavHamburger", "NavContainer"],
+    "components": [
+      "Navbar",
+      "NavBrand",
+      "NavLi",
+      "NavUl",
+      "NavHamburger",
+      "NavContainer"
+    ],
     "category": "components",
     "docUrl": "navbar"
   },
   "pagination": {
-    "components": ["PaginationNav", "PaginationButton", "Pagination", "PaginationItem"],
+    "components": [
+      "PaginationNav",
+      "PaginationButton",
+      "Pagination",
+      "PaginationItem"
+    ],
     "category": "components",
     "docUrl": "pagination"
   },
   "popover": {
-    "components": ["Popover"],
+    "components": [
+      "Popover"
+    ],
     "category": "components",
     "docUrl": "popover"
   },
   "progress": {
-    "components": ["Progressbar", "Progressradial"],
+    "components": [
+      "Progressbar",
+      "Progressradial"
+    ],
     "category": "components",
     "docUrl": "progress"
   },
@@ -295,7 +411,9 @@
     "docUrl": "rating"
   },
   "scroll-spy": {
-    "components": ["ScrollSpy"],
+    "components": [
+      "ScrollSpy"
+    ],
     "category": "components",
     "docUrl": "scroll-spy"
   },
@@ -329,22 +447,34 @@
     "docUrl": "skeleton"
   },
   "speed-dial": {
-    "components": ["SpeedDial", "SpeedDialButton", "SpeedDialTrigger"],
+    "components": [
+      "SpeedDial",
+      "SpeedDialButton",
+      "SpeedDialTrigger"
+    ],
     "category": "components",
     "docUrl": "speed-dial"
   },
   "spinner": {
-    "components": ["Spinner"],
+    "components": [
+      "Spinner"
+    ],
     "category": "components",
     "docUrl": "spinner"
   },
   "split-pane": {
-    "components": ["SplitPane", "Pane", "Divider"],
+    "components": [
+      "SplitPane",
+      "Pane",
+      "Divider"
+    ],
     "category": "components",
     "docUrl": "split-pane"
   },
   "step-indicator": {
-    "components": ["StepIndicator"],
+    "components": [
+      "StepIndicator"
+    ],
     "category": "components",
     "docUrl": "step-indicator"
   },
@@ -374,7 +504,10 @@
     "docUrl": "table"
   },
   "tabs": {
-    "components": ["TabItem", "Tabs"],
+    "components": [
+      "TabItem",
+      "Tabs"
+    ],
     "category": "components",
     "docUrl": "tabs"
   },
@@ -384,32 +517,52 @@
     "docUrl": "theme"
   },
   "timeline": {
-    "components": ["Activity", "ActivityItem", "Group", "GroupItem", "Timeline", "TimelineItem"],
+    "components": [
+      "Activity",
+      "ActivityItem",
+      "Group",
+      "GroupItem",
+      "Timeline",
+      "TimelineItem"
+    ],
     "category": "components",
     "docUrl": "timeline"
   },
   "toast": {
-    "components": ["Toast", "ToastContainer"],
+    "components": [
+      "Toast",
+      "ToastContainer"
+    ],
     "category": "components",
     "docUrl": "toast"
   },
   "toolbar": {
-    "components": ["Toolbar", "ToolbarButton", "ToolbarGroup"],
+    "components": [
+      "Toolbar",
+      "ToolbarButton",
+      "ToolbarGroup"
+    ],
     "category": "components",
     "docUrl": "toolbar"
   },
   "tooltip": {
-    "components": ["Tooltip"],
+    "components": [
+      "Tooltip"
+    ],
     "category": "components",
     "docUrl": "tooltip"
   },
   "tour": {
-    "components": ["Tour"],
+    "components": [
+      "Tour"
+    ],
     "category": "components",
     "docUrl": "tour"
   },
   "typography/a": {
-    "components": ["A"],
+    "components": [
+      "A"
+    ],
     "category": "typography",
     "docUrl": "typography/a"
   },
@@ -419,72 +572,103 @@
     "docUrl": "typography/blockquote"
   },
   "typography/descriptionlist": {
-    "components": ["DescriptionList"],
+    "components": [
+      "DescriptionList"
+    ],
     "category": "typography",
     "docUrl": "typography/descriptionlist"
   },
   "typography/heading": {
-    "components": ["Heading"],
+    "components": [
+      "Heading"
+    ],
     "category": "typography",
     "docUrl": "typography/heading"
   },
   "typography/hr": {
-    "components": ["Hr"],
+    "components": [
+      "Hr"
+    ],
     "category": "typography",
     "docUrl": "typography/hr"
   },
   "typography/img": {
-    "components": ["Img", "EnhancedImg"],
+    "components": [
+      "Img",
+      "EnhancedImg"
+    ],
     "category": "typography",
     "docUrl": "typography/img"
   },
   "typography/layout": {
-    "components": ["Layout"],
+    "components": [
+      "Layout"
+    ],
     "category": "typography",
     "docUrl": "typography/layout"
   },
   "typography/list": {
-    "components": ["List", "Li"],
+    "components": [
+      "List",
+      "Li"
+    ],
     "category": "typography",
     "docUrl": "typography/list"
   },
   "typography/mark": {
-    "components": ["Mark"],
+    "components": [
+      "Mark"
+    ],
     "category": "typography",
     "docUrl": "typography/mark"
   },
   "typography/paragraph": {
-    "components": ["P"],
+    "components": [
+      "P"
+    ],
     "category": "typography",
     "docUrl": "typography/paragraph"
   },
   "typography/secondary": {
-    "components": ["Secondary"],
+    "components": [
+      "Secondary"
+    ],
     "category": "typography",
     "docUrl": "typography/secondary"
   },
   "typography/span": {
-    "components": ["Span"],
+    "components": [
+      "Span"
+    ],
     "category": "typography",
     "docUrl": "typography/span"
   },
   "utils": {
-    "components": ["CloseButton", "Popper"],
+    "components": [
+      "CloseButton",
+      "Popper"
+    ],
     "category": "components",
     "docUrl": "utils"
   },
   "video": {
-    "components": ["Video"],
+    "components": [
+      "Video"
+    ],
     "category": "components",
     "docUrl": "video"
   },
   "virtual-masonry": {
-    "components": ["VirtualMasonry"],
+    "components": [
+      "VirtualMasonry"
+    ],
     "category": "components",
     "docUrl": "virtual-masonry"
   },
   "virtuallist": {
-    "components": ["VirtualList"],
+    "components": [
+      "VirtualList"
+    ],
     "category": "components",
     "docUrl": "virtuallist"
   }
