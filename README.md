@@ -6,6 +6,8 @@ It exposes tools to find components, query component docs, list components, and 
 ## Getting started
 
 ```bash
+git clone git@github.com:shinokada/flowbite-svelte-mcp.git
+cd flowbite-svelte-mcp
 pnpm install
 pnpm run build
 pnpm run start
