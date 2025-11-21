@@ -4,7 +4,7 @@
   "description": "MCP server for Flowbite-Svelte documentation (LLM)",
   "type": "module",
   "scripts": {
-    "build": "tsc",
+    "build": "pnpm copy:llm && tsc && tsx scripts/postbuild.ts",
     "start": "node build/server.js",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
@@ -14,7 +14,7 @@
     "copy:llm": "tsx scripts/copyLlmData.ts",
     "ch": "npx changeset",
     "cv": "npx changeset version",
-    "cp": "pnpm gen:registry && pnpm copy:llm && npx changeset publish"
+    "cp": "pnpm gen:registry && pnpm copy:llm && pnpm build && npx changeset publish"
   },
   "dependencies": {
     "@tmcp/adapter-zod": "^0.1.7",
