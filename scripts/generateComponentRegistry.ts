@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const libPath = '/Users/shinichiokada/Flowbite/flowbite-svelte-local-development/src/lib';
+const libPath = '/Users/shinichiokada/Flowbite/flowbite-svelte/src/lib';
 const outputPath = './src/data/components.json';
 
 const registry: Record<string, any> = {};

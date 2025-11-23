@@ -1,7 +1,9 @@
 import { z } from 'zod';
 import componentsData from '../data/components.json' with { type: 'json' };
 const Schema = z.object({
-    query: z.string().describe("Component name or search term (e.g., 'Button', 'CardPlaceholder', 'form checkbox')")
+    query: z
+        .string()
+        .describe("Component name or search term (e.g., 'Button', 'CardPlaceholder', 'form checkbox')"),
 });
 export const findComponentTool = {
     definition: {
@@ -18,30 +20,34 @@ export const findComponentTool = {
                 results.push({ match: key, ...value, matchType: 'directory' });
             }
             // Check if the search term matches any component name
-            const matchingComponents = value.components.filter(comp => comp.toLowerCase().includes(searchTerm));
+            const matchingComponents = value.components.filter((comp) => comp.toLowerCase().includes(searchTerm));
             if (matchingComponents.length > 0) {
                 results.push({
                     match: key,
                     ...value,
                     matchType: 'component',
-                    matchedComponents: matchingComponents
+                    matchedComponents: matchingComponents,
                 });
             }
         }
         if (results.length === 0) {
             return {
-                content: [{
+                content: [
+                    {
                         type: 'text',
-                        text: `No components found matching "${query}". Try searching with a different term.`
-                    }],
-                isError: true
+                        text: `No components found matching "${query}". Try searching with a different term.`,
+                    },
+                ],
+                isError: true,
             };
         }
         return {
-            content: [{
+            content: [
+                {
                     type: 'text',
-                    text: JSON.stringify(results, null, 2)
-                }]
+                    text: JSON.stringify(results, null, 2),
+                },
+            ],
         };
-    }
+    },
 };

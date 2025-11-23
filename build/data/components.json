@@ -1,675 +1,675 @@
 {
-    "accordion": {
-        "components": [
-            "Accordion",
-            "AccordionItem"
-        ],
-        "category": "components",
-        "docUrl": "accordion"
-    },
-    "alert": {
-        "components": [
-            "Alert"
-        ],
-        "category": "components",
-        "docUrl": "alert"
-    },
-    "avatar": {
-        "components": [
-            "Avatar"
-        ],
-        "category": "components",
-        "docUrl": "avatar"
-    },
-    "badge": {
-        "components": [
-            "Badge"
-        ],
-        "category": "components",
-        "docUrl": "badge"
-    },
-    "banner": {
-        "components": [
-            "Banner"
-        ],
-        "category": "components",
-        "docUrl": "banner"
-    },
-    "bottom-navigation": {
-        "components": [
-            "BottomNav",
-            "BottomNavItem",
-            "BottomNavHeaderItem",
-            "BottomNavHeader"
-        ],
-        "category": "components",
-        "docUrl": "bottom-navigation"
-    },
-    "breadcrumb": {
-        "components": [
-            "Breadcrumb",
-            "BreadcrumbItem"
-        ],
-        "category": "components",
-        "docUrl": "breadcrumb"
-    },
-    "button-group": {
-        "components": [
-            "ButtonGroup"
-        ],
-        "category": "components",
-        "docUrl": "button-group"
-    },
-    "buttons": {
-        "components": [
-            "Button",
-            "GradientButton"
-        ],
-        "category": "components",
-        "docUrl": "buttons"
-    },
-    "card": {
-        "components": [
-            "Card"
-        ],
-        "category": "components",
-        "docUrl": "card"
-    },
-    "carousel": {
-        "components": [
-            "Carousel",
-            "ControlButton",
-            "Controls",
-            "CarouselIndicators",
-            "Thumbnails",
-            "Slide",
-            "Thumbnail"
-        ],
-        "category": "components",
-        "docUrl": "carousel"
-    },
-    "clipboard": {
-        "components": [
-            "Clipboard"
-        ],
-        "category": "components",
-        "docUrl": "clipboard"
-    },
-    "clipboard-manager": {
-        "components": [
-            "ClipboardManager"
-        ],
-        "category": "components",
-        "docUrl": "clipboard-manager"
-    },
-    "command-palette": {
-        "components": [
-            "CommandPalette"
-        ],
-        "category": "components",
-        "docUrl": "command-palette"
-    },
-    "darkmode": {
-        "components": [
-            "DarkMode"
-        ],
-        "category": "components",
-        "docUrl": "darkmode"
-    },
-    "datepicker": {
-        "components": [
-            "Datepicker"
-        ],
-        "category": "components",
-        "docUrl": "datepicker"
-    },
-    "device-mockups": {
-        "components": [
-            "Android",
-            "DefaultMockup",
-            "Desktop",
-            "DeviceMockup",
-            "Ios",
-            "Laptop",
-            "Smartwatch",
-            "Tablet"
-        ],
-        "category": "components",
-        "docUrl": "device-mockups"
-    },
-    "dialog": {
-        "components": [
-            "Dialog"
-        ],
-        "category": "components",
-        "docUrl": "dialog"
-    },
-    "drawer": {
-        "components": [
-            "Drawer",
-            "Drawerhead",
-            "DrawerHandle"
-        ],
-        "category": "components",
-        "docUrl": "drawer"
-    },
-    "dropdown": {
-        "components": [
-            "Dropdown",
-            "DropdownDivider",
-            "DropdownGroup",
-            "DropdownHeader",
-            "DropdownItem"
-        ],
-        "category": "components",
-        "docUrl": "dropdown"
-    },
-    "footer": {
-        "components": [
-            "Footer",
-            "FooterBrand",
-            "FooterCopyright",
-            "FooterIcon",
-            "FooterLink",
-            "FooterLinkGroup"
-        ],
-        "category": "components",
-        "docUrl": "footer"
-    },
-    "forms/button-toggle": {
-        "components": [
-            "ButtonToggleGroup",
-            "ButtonToggle",
-            "CheckIcon"
-        ],
-        "category": "forms",
-        "docUrl": "forms/button-toggle"
-    },
-    "forms/checkbox": {
-        "components": [
-            "Checkbox",
-            "CheckboxButton"
-        ],
-        "category": "forms",
-        "docUrl": "forms/checkbox"
-    },
-    "forms/dropzone": {
-        "components": [
-            "Dropzone"
-        ],
-        "category": "forms",
-        "docUrl": "forms/dropzone"
-    },
-    "forms/fileupload": {
-        "components": [
-            "Fileupload"
-        ],
-        "category": "forms",
-        "docUrl": "forms/fileupload"
-    },
-    "forms/floating-label": {
-        "components": [
-            "FloatingLabelInput"
-        ],
-        "category": "forms",
-        "docUrl": "forms/floating-label"
-    },
-    "forms/helper": {
-        "components": [
-            "Helper"
-        ],
-        "category": "forms",
-        "docUrl": "forms/helper"
-    },
-    "forms/input-addon": {
-        "components": [
-            "InputAddon"
-        ],
-        "category": "forms",
-        "docUrl": "forms/input-addon"
-    },
-    "forms/input-field": {
-        "components": [
-            "Input"
-        ],
-        "category": "forms",
-        "docUrl": "forms/input-field"
-    },
-    "forms/label": {
-        "components": [
-            "Label"
-        ],
-        "category": "forms",
-        "docUrl": "forms/label"
-    },
-    "forms/phoneinput": {
-        "components": [
-            "PhoneInput"
-        ],
-        "category": "forms",
-        "docUrl": "forms/phoneinput"
-    },
-    "forms/radio": {
-        "components": [
-            "Radio",
-            "RadioButton"
-        ],
-        "category": "forms",
-        "docUrl": "forms/radio"
-    },
-    "forms/range": {
-        "components": [
-            "Range"
-        ],
-        "category": "forms",
-        "docUrl": "forms/range"
-    },
-    "forms/search": {
-        "components": [
-            "Search"
-        ],
-        "category": "forms",
-        "docUrl": "forms/search"
-    },
-    "forms/select": {
-        "components": [
-            "Select",
-            "MultiSelect"
-        ],
-        "category": "forms",
-        "docUrl": "forms/select"
-    },
-    "forms/tags": {
-        "components": [
-            "Tags"
-        ],
-        "category": "forms",
-        "docUrl": "forms/tags"
-    },
-    "forms/textarea": {
-        "components": [
-            "Textarea"
-        ],
-        "category": "forms",
-        "docUrl": "forms/textarea"
-    },
-    "forms/timepicker": {
-        "components": [
-            "Timepicker"
-        ],
-        "category": "forms",
-        "docUrl": "forms/timepicker"
-    },
-    "forms/toggle": {
-        "components": [
-            "Toggle"
-        ],
-        "category": "forms",
-        "docUrl": "forms/toggle"
-    },
-    "gallery": {
-        "components": [
-            "Gallery"
-        ],
-        "category": "components",
-        "docUrl": "gallery"
-    },
-    "indicator": {
-        "components": [
-            "Indicator"
-        ],
-        "category": "components",
-        "docUrl": "indicator"
-    },
-    "kanban": {
-        "components": [
-            "KanbanBoard",
-            "KanbanCard"
-        ],
-        "category": "components",
-        "docUrl": "kanban"
-    },
-    "kbd": {
-        "components": [
-            "Kbd"
-        ],
-        "category": "components",
-        "docUrl": "kbd"
-    },
-    "list-group": {
-        "components": [
-            "Listgroup",
-            "ListgroupItem"
-        ],
-        "category": "components",
-        "docUrl": "list-group"
-    },
-    "mega-menu": {
-        "components": [
-            "MegaMenu"
-        ],
-        "category": "components",
-        "docUrl": "mega-menu"
-    },
-    "modal": {
-        "components": [
-            "Modal"
-        ],
-        "category": "components",
-        "docUrl": "modal"
-    },
-    "navbar": {
-        "components": [
-            "Navbar",
-            "NavBrand",
-            "NavLi",
-            "NavUl",
-            "NavHamburger",
-            "NavContainer"
-        ],
-        "category": "components",
-        "docUrl": "navbar"
-    },
-    "pagination": {
-        "components": [
-            "PaginationNav",
-            "PaginationButton",
-            "Pagination",
-            "PaginationItem"
-        ],
-        "category": "components",
-        "docUrl": "pagination"
-    },
-    "popover": {
-        "components": [
-            "Popover"
-        ],
-        "category": "components",
-        "docUrl": "popover"
-    },
-    "progress": {
-        "components": [
-            "Progressbar",
-            "Progressradial"
-        ],
-        "category": "components",
-        "docUrl": "progress"
-    },
-    "rating": {
-        "components": [
-            "AdvancedRating",
-            "Heart",
-            "Rating",
-            "RatingComment",
-            "Review",
-            "ScoreRating",
-            "Star",
-            "Thumbup",
-            "CustomIcon"
-        ],
-        "category": "components",
-        "docUrl": "rating"
-    },
-    "scroll-spy": {
-        "components": [
-            "ScrollSpy"
-        ],
-        "category": "components",
-        "docUrl": "scroll-spy"
-    },
-    "sidebar": {
-        "components": [
-            "Sidebar",
-            "SidebarWrapper",
-            "SidebarDropdownWrapper",
-            "SidebarGroup",
-            "SidebarItem",
-            "SidebarDropdownItem",
-            "SidebarButton",
-            "SidebarCta",
-            "SidebarBrand"
-        ],
-        "category": "components",
-        "docUrl": "sidebar"
-    },
-    "skeleton": {
-        "components": [
-            "CardPlaceholder",
-            "ImagePlaceholder",
-            "ListPlaceholder",
-            "Skeleton",
-            "TestimonialPlaceholder",
-            "TextPlaceholder",
-            "VideoPlaceholder",
-            "WidgetPlaceholder"
-        ],
-        "category": "components",
-        "docUrl": "skeleton"
-    },
-    "speed-dial": {
-        "components": [
-            "SpeedDial",
-            "SpeedDialButton",
-            "SpeedDialTrigger"
-        ],
-        "category": "components",
-        "docUrl": "speed-dial"
-    },
-    "spinner": {
-        "components": [
-            "Spinner"
-        ],
-        "category": "components",
-        "docUrl": "spinner"
-    },
-    "split-pane": {
-        "components": [
-            "SplitPane",
-            "Pane",
-            "Divider"
-        ],
-        "category": "components",
-        "docUrl": "split-pane"
-    },
-    "step-indicator": {
-        "components": [
-            "StepIndicator"
-        ],
-        "category": "components",
-        "docUrl": "step-indicator"
-    },
-    "stepper": {
-        "components": [
-            "Stepper",
-            "ProgressStepper",
-            "DetailedStepper",
-            "VerticalStepper",
-            "BreadcrumbStepper",
-            "TimelineStepper"
-        ],
-        "category": "components",
-        "docUrl": "stepper"
-    },
-    "table": {
-        "components": [
-            "Table",
-            "TableBody",
-            "TableBodyCell",
-            "TableBodyRow",
-            "TableHeadCell",
-            "TableHead",
-            "TableSearch"
-        ],
-        "category": "components",
-        "docUrl": "table"
-    },
-    "tabs": {
-        "components": [
-            "TabItem",
-            "Tabs"
-        ],
-        "category": "components",
-        "docUrl": "tabs"
-    },
-    "theme": {
-        "components": [],
-        "category": "components",
-        "docUrl": "theme"
-    },
-    "timeline": {
-        "components": [
-            "Activity",
-            "ActivityItem",
-            "Group",
-            "GroupItem",
-            "Timeline",
-            "TimelineItem"
-        ],
-        "category": "components",
-        "docUrl": "timeline"
-    },
-    "toast": {
-        "components": [
-            "Toast",
-            "ToastContainer"
-        ],
-        "category": "components",
-        "docUrl": "toast"
-    },
-    "toolbar": {
-        "components": [
-            "Toolbar",
-            "ToolbarButton",
-            "ToolbarGroup"
-        ],
-        "category": "components",
-        "docUrl": "toolbar"
-    },
-    "tooltip": {
-        "components": [
-            "Tooltip"
-        ],
-        "category": "components",
-        "docUrl": "tooltip"
-    },
-    "tour": {
-        "components": [
-            "Tour"
-        ],
-        "category": "components",
-        "docUrl": "tour"
-    },
-    "typography/a": {
-        "components": [
-            "A"
-        ],
-        "category": "typography",
-        "docUrl": "typography/a"
-    },
-    "typography/blockquote": {
-        "components": [],
-        "category": "typography",
-        "docUrl": "typography/blockquote"
-    },
-    "typography/descriptionlist": {
-        "components": [
-            "DescriptionList"
-        ],
-        "category": "typography",
-        "docUrl": "typography/descriptionlist"
-    },
-    "typography/heading": {
-        "components": [
-            "Heading"
-        ],
-        "category": "typography",
-        "docUrl": "typography/heading"
-    },
-    "typography/hr": {
-        "components": [
-            "Hr"
-        ],
-        "category": "typography",
-        "docUrl": "typography/hr"
-    },
-    "typography/img": {
-        "components": [
-            "Img",
-            "EnhancedImg"
-        ],
-        "category": "typography",
-        "docUrl": "typography/img"
-    },
-    "typography/layout": {
-        "components": [
-            "Layout"
-        ],
-        "category": "typography",
-        "docUrl": "typography/layout"
-    },
-    "typography/list": {
-        "components": [
-            "List",
-            "Li"
-        ],
-        "category": "typography",
-        "docUrl": "typography/list"
-    },
-    "typography/mark": {
-        "components": [
-            "Mark"
-        ],
-        "category": "typography",
-        "docUrl": "typography/mark"
-    },
-    "typography/paragraph": {
-        "components": [
-            "P"
-        ],
-        "category": "typography",
-        "docUrl": "typography/paragraph"
-    },
-    "typography/secondary": {
-        "components": [
-            "Secondary"
-        ],
-        "category": "typography",
-        "docUrl": "typography/secondary"
-    },
-    "typography/span": {
-        "components": [
-            "Span"
-        ],
-        "category": "typography",
-        "docUrl": "typography/span"
-    },
-    "utils": {
-        "components": [
-            "CloseButton",
-            "Popper"
-        ],
-        "category": "components",
-        "docUrl": "utils"
-    },
-    "video": {
-        "components": [
-            "Video"
-        ],
-        "category": "components",
-        "docUrl": "video"
-    },
-    "virtual-masonry": {
-        "components": [
-            "VirtualMasonry"
-        ],
-        "category": "components",
-        "docUrl": "virtual-masonry"
-    },
-    "virtuallist": {
-        "components": [
-            "VirtualList"
-        ],
-        "category": "components",
-        "docUrl": "virtuallist"
-    }
+  "accordion": {
+    "components": [
+      "Accordion",
+      "AccordionItem"
+    ],
+    "category": "components",
+    "docUrl": "accordion"
+  },
+  "alert": {
+    "components": [
+      "Alert"
+    ],
+    "category": "components",
+    "docUrl": "alert"
+  },
+  "avatar": {
+    "components": [
+      "Avatar"
+    ],
+    "category": "components",
+    "docUrl": "avatar"
+  },
+  "badge": {
+    "components": [
+      "Badge"
+    ],
+    "category": "components",
+    "docUrl": "badge"
+  },
+  "banner": {
+    "components": [
+      "Banner"
+    ],
+    "category": "components",
+    "docUrl": "banner"
+  },
+  "bottom-navigation": {
+    "components": [
+      "BottomNav",
+      "BottomNavItem",
+      "BottomNavHeaderItem",
+      "BottomNavHeader"
+    ],
+    "category": "components",
+    "docUrl": "bottom-navigation"
+  },
+  "breadcrumb": {
+    "components": [
+      "Breadcrumb",
+      "BreadcrumbItem"
+    ],
+    "category": "components",
+    "docUrl": "breadcrumb"
+  },
+  "button-group": {
+    "components": [
+      "ButtonGroup"
+    ],
+    "category": "components",
+    "docUrl": "button-group"
+  },
+  "buttons": {
+    "components": [
+      "Button",
+      "GradientButton"
+    ],
+    "category": "components",
+    "docUrl": "buttons"
+  },
+  "card": {
+    "components": [
+      "Card"
+    ],
+    "category": "components",
+    "docUrl": "card"
+  },
+  "carousel": {
+    "components": [
+      "Carousel",
+      "ControlButton",
+      "Controls",
+      "CarouselIndicators",
+      "Thumbnails",
+      "Slide",
+      "Thumbnail"
+    ],
+    "category": "components",
+    "docUrl": "carousel"
+  },
+  "clipboard": {
+    "components": [
+      "Clipboard"
+    ],
+    "category": "components",
+    "docUrl": "clipboard"
+  },
+  "clipboard-manager": {
+    "components": [
+      "ClipboardManager"
+    ],
+    "category": "components",
+    "docUrl": "clipboard-manager"
+  },
+  "command-palette": {
+    "components": [
+      "CommandPalette"
+    ],
+    "category": "components",
+    "docUrl": "command-palette"
+  },
+  "darkmode": {
+    "components": [
+      "DarkMode"
+    ],
+    "category": "components",
+    "docUrl": "darkmode"
+  },
+  "datepicker": {
+    "components": [
+      "Datepicker"
+    ],
+    "category": "components",
+    "docUrl": "datepicker"
+  },
+  "device-mockups": {
+    "components": [
+      "Android",
+      "DefaultMockup",
+      "Desktop",
+      "DeviceMockup",
+      "Ios",
+      "Laptop",
+      "Smartwatch",
+      "Tablet"
+    ],
+    "category": "components",
+    "docUrl": "device-mockups"
+  },
+  "dialog": {
+    "components": [
+      "Dialog"
+    ],
+    "category": "components",
+    "docUrl": "dialog"
+  },
+  "drawer": {
+    "components": [
+      "Drawer",
+      "Drawerhead",
+      "DrawerHandle"
+    ],
+    "category": "components",
+    "docUrl": "drawer"
+  },
+  "dropdown": {
+    "components": [
+      "Dropdown",
+      "DropdownDivider",
+      "DropdownGroup",
+      "DropdownHeader",
+      "DropdownItem"
+    ],
+    "category": "components",
+    "docUrl": "dropdown"
+  },
+  "footer": {
+    "components": [
+      "Footer",
+      "FooterBrand",
+      "FooterCopyright",
+      "FooterIcon",
+      "FooterLink",
+      "FooterLinkGroup"
+    ],
+    "category": "components",
+    "docUrl": "footer"
+  },
+  "forms/button-toggle": {
+    "components": [
+      "ButtonToggleGroup",
+      "ButtonToggle",
+      "CheckIcon"
+    ],
+    "category": "forms",
+    "docUrl": "forms/button-toggle"
+  },
+  "forms/checkbox": {
+    "components": [
+      "Checkbox",
+      "CheckboxButton"
+    ],
+    "category": "forms",
+    "docUrl": "forms/checkbox"
+  },
+  "forms/dropzone": {
+    "components": [
+      "Dropzone"
+    ],
+    "category": "forms",
+    "docUrl": "forms/dropzone"
+  },
+  "forms/fileupload": {
+    "components": [
+      "Fileupload"
+    ],
+    "category": "forms",
+    "docUrl": "forms/fileupload"
+  },
+  "forms/floating-label": {
+    "components": [
+      "FloatingLabelInput"
+    ],
+    "category": "forms",
+    "docUrl": "forms/floating-label"
+  },
+  "forms/helper": {
+    "components": [
+      "Helper"
+    ],
+    "category": "forms",
+    "docUrl": "forms/helper"
+  },
+  "forms/input-addon": {
+    "components": [
+      "InputAddon"
+    ],
+    "category": "forms",
+    "docUrl": "forms/input-addon"
+  },
+  "forms/input-field": {
+    "components": [
+      "Input"
+    ],
+    "category": "forms",
+    "docUrl": "forms/input-field"
+  },
+  "forms/label": {
+    "components": [
+      "Label"
+    ],
+    "category": "forms",
+    "docUrl": "forms/label"
+  },
+  "forms/phoneinput": {
+    "components": [
+      "PhoneInput"
+    ],
+    "category": "forms",
+    "docUrl": "forms/phoneinput"
+  },
+  "forms/radio": {
+    "components": [
+      "Radio",
+      "RadioButton"
+    ],
+    "category": "forms",
+    "docUrl": "forms/radio"
+  },
+  "forms/range": {
+    "components": [
+      "Range"
+    ],
+    "category": "forms",
+    "docUrl": "forms/range"
+  },
+  "forms/search": {
+    "components": [
+      "Search"
+    ],
+    "category": "forms",
+    "docUrl": "forms/search"
+  },
+  "forms/select": {
+    "components": [
+      "Select",
+      "MultiSelect"
+    ],
+    "category": "forms",
+    "docUrl": "forms/select"
+  },
+  "forms/tags": {
+    "components": [
+      "Tags"
+    ],
+    "category": "forms",
+    "docUrl": "forms/tags"
+  },
+  "forms/textarea": {
+    "components": [
+      "Textarea"
+    ],
+    "category": "forms",
+    "docUrl": "forms/textarea"
+  },
+  "forms/timepicker": {
+    "components": [
+      "Timepicker"
+    ],
+    "category": "forms",
+    "docUrl": "forms/timepicker"
+  },
+  "forms/toggle": {
+    "components": [
+      "Toggle"
+    ],
+    "category": "forms",
+    "docUrl": "forms/toggle"
+  },
+  "gallery": {
+    "components": [
+      "Gallery"
+    ],
+    "category": "components",
+    "docUrl": "gallery"
+  },
+  "indicator": {
+    "components": [
+      "Indicator"
+    ],
+    "category": "components",
+    "docUrl": "indicator"
+  },
+  "kanban": {
+    "components": [
+      "KanbanBoard",
+      "KanbanCard"
+    ],
+    "category": "components",
+    "docUrl": "kanban"
+  },
+  "kbd": {
+    "components": [
+      "Kbd"
+    ],
+    "category": "components",
+    "docUrl": "kbd"
+  },
+  "list-group": {
+    "components": [
+      "Listgroup",
+      "ListgroupItem"
+    ],
+    "category": "components",
+    "docUrl": "list-group"
+  },
+  "mega-menu": {
+    "components": [
+      "MegaMenu"
+    ],
+    "category": "components",
+    "docUrl": "mega-menu"
+  },
+  "modal": {
+    "components": [
+      "Modal"
+    ],
+    "category": "components",
+    "docUrl": "modal"
+  },
+  "navbar": {
+    "components": [
+      "Navbar",
+      "NavBrand",
+      "NavLi",
+      "NavUl",
+      "NavHamburger",
+      "NavContainer"
+    ],
+    "category": "components",
+    "docUrl": "navbar"
+  },
+  "pagination": {
+    "components": [
+      "PaginationNav",
+      "PaginationButton",
+      "Pagination",
+      "PaginationItem"
+    ],
+    "category": "components",
+    "docUrl": "pagination"
+  },
+  "popover": {
+    "components": [
+      "Popover"
+    ],
+    "category": "components",
+    "docUrl": "popover"
+  },
+  "progress": {
+    "components": [
+      "Progressbar",
+      "Progressradial"
+    ],
+    "category": "components",
+    "docUrl": "progress"
+  },
+  "rating": {
+    "components": [
+      "AdvancedRating",
+      "Heart",
+      "Rating",
+      "RatingComment",
+      "Review",
+      "ScoreRating",
+      "Star",
+      "Thumbup",
+      "CustomIcon"
+    ],
+    "category": "components",
+    "docUrl": "rating"
+  },
+  "scroll-spy": {
+    "components": [
+      "ScrollSpy"
+    ],
+    "category": "components",
+    "docUrl": "scroll-spy"
+  },
+  "sidebar": {
+    "components": [
+      "Sidebar",
+      "SidebarWrapper",
+      "SidebarDropdownWrapper",
+      "SidebarGroup",
+      "SidebarItem",
+      "SidebarDropdownItem",
+      "SidebarButton",
+      "SidebarCta",
+      "SidebarBrand"
+    ],
+    "category": "components",
+    "docUrl": "sidebar"
+  },
+  "skeleton": {
+    "components": [
+      "CardPlaceholder",
+      "ImagePlaceholder",
+      "ListPlaceholder",
+      "Skeleton",
+      "TestimonialPlaceholder",
+      "TextPlaceholder",
+      "VideoPlaceholder",
+      "WidgetPlaceholder"
+    ],
+    "category": "components",
+    "docUrl": "skeleton"
+  },
+  "speed-dial": {
+    "components": [
+      "SpeedDial",
+      "SpeedDialButton",
+      "SpeedDialTrigger"
+    ],
+    "category": "components",
+    "docUrl": "speed-dial"
+  },
+  "spinner": {
+    "components": [
+      "Spinner"
+    ],
+    "category": "components",
+    "docUrl": "spinner"
+  },
+  "split-pane": {
+    "components": [
+      "SplitPane",
+      "Pane",
+      "Divider"
+    ],
+    "category": "components",
+    "docUrl": "split-pane"
+  },
+  "step-indicator": {
+    "components": [
+      "StepIndicator"
+    ],
+    "category": "components",
+    "docUrl": "step-indicator"
+  },
+  "stepper": {
+    "components": [
+      "Stepper",
+      "ProgressStepper",
+      "DetailedStepper",
+      "VerticalStepper",
+      "BreadcrumbStepper",
+      "TimelineStepper"
+    ],
+    "category": "components",
+    "docUrl": "stepper"
+  },
+  "table": {
+    "components": [
+      "Table",
+      "TableBody",
+      "TableBodyCell",
+      "TableBodyRow",
+      "TableHeadCell",
+      "TableHead",
+      "TableSearch"
+    ],
+    "category": "components",
+    "docUrl": "table"
+  },
+  "tabs": {
+    "components": [
+      "TabItem",
+      "Tabs"
+    ],
+    "category": "components",
+    "docUrl": "tabs"
+  },
+  "theme": {
+    "components": [],
+    "category": "components",
+    "docUrl": "theme"
+  },
+  "timeline": {
+    "components": [
+      "Activity",
+      "ActivityItem",
+      "Group",
+      "GroupItem",
+      "Timeline",
+      "TimelineItem"
+    ],
+    "category": "components",
+    "docUrl": "timeline"
+  },
+  "toast": {
+    "components": [
+      "Toast",
+      "ToastContainer"
+    ],
+    "category": "components",
+    "docUrl": "toast"
+  },
+  "toolbar": {
+    "components": [
+      "Toolbar",
+      "ToolbarButton",
+      "ToolbarGroup"
+    ],
+    "category": "components",
+    "docUrl": "toolbar"
+  },
+  "tooltip": {
+    "components": [
+      "Tooltip"
+    ],
+    "category": "components",
+    "docUrl": "tooltip"
+  },
+  "tour": {
+    "components": [
+      "Tour"
+    ],
+    "category": "components",
+    "docUrl": "tour"
+  },
+  "typography/a": {
+    "components": [
+      "A"
+    ],
+    "category": "typography",
+    "docUrl": "typography/a"
+  },
+  "typography/blockquote": {
+    "components": [],
+    "category": "typography",
+    "docUrl": "typography/blockquote"
+  },
+  "typography/descriptionlist": {
+    "components": [
+      "DescriptionList"
+    ],
+    "category": "typography",
+    "docUrl": "typography/descriptionlist"
+  },
+  "typography/heading": {
+    "components": [
+      "Heading"
+    ],
+    "category": "typography",
+    "docUrl": "typography/heading"
+  },
+  "typography/hr": {
+    "components": [
+      "Hr"
+    ],
+    "category": "typography",
+    "docUrl": "typography/hr"
+  },
+  "typography/img": {
+    "components": [
+      "Img",
+      "EnhancedImg"
+    ],
+    "category": "typography",
+    "docUrl": "typography/img"
+  },
+  "typography/layout": {
+    "components": [
+      "Layout"
+    ],
+    "category": "typography",
+    "docUrl": "typography/layout"
+  },
+  "typography/list": {
+    "components": [
+      "List",
+      "Li"
+    ],
+    "category": "typography",
+    "docUrl": "typography/list"
+  },
+  "typography/mark": {
+    "components": [
+      "Mark"
+    ],
+    "category": "typography",
+    "docUrl": "typography/mark"
+  },
+  "typography/paragraph": {
+    "components": [
+      "P"
+    ],
+    "category": "typography",
+    "docUrl": "typography/paragraph"
+  },
+  "typography/secondary": {
+    "components": [
+      "Secondary"
+    ],
+    "category": "typography",
+    "docUrl": "typography/secondary"
+  },
+  "typography/span": {
+    "components": [
+      "Span"
+    ],
+    "category": "typography",
+    "docUrl": "typography/span"
+  },
+  "utils": {
+    "components": [
+      "CloseButton",
+      "Popper"
+    ],
+    "category": "components",
+    "docUrl": "utils"
+  },
+  "video": {
+    "components": [
+      "Video"
+    ],
+    "category": "components",
+    "docUrl": "video"
+  },
+  "virtual-masonry": {
+    "components": [
+      "VirtualMasonry"
+    ],
+    "category": "components",
+    "docUrl": "virtual-masonry"
+  },
+  "virtuallist": {
+    "components": [
+      "VirtualList"
+    ],
+    "category": "components",
+    "docUrl": "virtuallist"
+  }
 }
