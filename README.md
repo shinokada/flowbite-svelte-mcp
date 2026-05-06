@@ -43,6 +43,19 @@ This server uses stdio transport, so it's compatible with MCP clients that launc
    {
      "mcpServers": {
        "flowbite-svelte": {
+         "command": "npx",
+         "args": ["-y", "flowbite-svelte-mcp"]
+       }
+     }
+   }
+   ```
+
+   Alternatively, if you have a local clone, you can reference the build directly:
+
+   ```json
+   {
+     "mcpServers": {
+       "flowbite-svelte": {
          "command": "node",
          "args": ["/ABSOLUTE/PATH/TO/flowbite-svelte-mcp/build/server.js"]
        }

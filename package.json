@@ -3,6 +3,12 @@
   "version": "0.3.2",
   "description": "MCP server for Flowbite-Svelte documentation (LLM)",
   "type": "module",
+  "bin": {
+    "flowbite-svelte-mcp": "./build/server.js"
+  },
+  "files": [
+    "build"
+  ],
   "engines": {
     "node": ">=20.0.0"
   },

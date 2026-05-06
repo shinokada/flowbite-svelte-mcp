@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { McpServer } from 'tmcp';
 import { StdioTransport } from '@tmcp/transport-stdio';
 import { ZodJsonSchemaAdapter } from '@tmcp/adapter-zod';
